@@ -3,9 +3,9 @@ Repositório dedicado à narrativa da criação e evolução do Android. Explore
 
 # Link para a Página
 
-Link: 
+Link: https://eduardosichelero.github.io/Android-Page/
 
 # Screenshot
 Prévia do projeto :
 
-![screenshot](Screenshot
+![screenshot](Screenshot.jpg)
